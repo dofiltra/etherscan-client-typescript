@@ -15,7 +15,7 @@
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "noImplicitAny": true,
-    "declaration": false,
+    "declaration": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true
   },
