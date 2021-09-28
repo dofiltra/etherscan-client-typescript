@@ -3,6 +3,7 @@
   "version": "1.0.19",
   "description": "client for the Etherscan API",
   "main": "build/main/index.js",
+  "type": "module",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
   "repository": "https://github.com/Ty4ka/etherscan-client-typescript",
