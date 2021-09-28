@@ -1,6 +1,6 @@
 {
   "name": "etherscan-client-typescript",
-  "version": "1.0.19",
+  "version": "1.0.21",
   "description": "client for the Etherscan API",
   "main": "build/main/index.js",
   "type": "module",
