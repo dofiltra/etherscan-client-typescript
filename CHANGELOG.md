@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.19"></a>
+## [1.0.19](https://github.com/Ty4ka/etherscan-client-typescript/compare/v1.0.17...v1.0.19) (2021-09-28)
+
+
+
 <a name="1.0.17"></a>
 ## [1.0.17](https://github.com/Ty4ka/etherscan-client-typescript/compare/v1.0.15...v1.0.17) (2021-09-28)
 
