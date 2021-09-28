@@ -120,14 +120,14 @@ export default class EtherscanClient {
     let text: string;
     try {
       text = await response.text();
-    } catch (err:any) {
+    } catch (err) {
       throw new Error(`failed to read response text: ${err.message}`);
     }
 
     let responseJson: EtherscanAPIResponse;
     try {
       responseJson = JSON.parse(text);
-    } catch (err:any) {
+    } catch (err) {
       throw new Error(`failed to parse json in response body: ${err.message}`);
     }
 
